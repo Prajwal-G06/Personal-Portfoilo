@@ -395,10 +395,10 @@ body.dark-theme {
   padding-right: 4rem;
 }
 
-.home__info-number {
+/* .home__info-number {
   font-size: var(--h1-font-size);
   font-weight: var(--font-semi-bold);
-}
+} */
 
 /* ========== SKILLS =========== */
 .skills_container {
