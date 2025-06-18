@@ -22,11 +22,11 @@ I'm a DevOps Engineer with hands-on experience in building and automating cloud 
 - `assets/` – CSS, images, and other static files
 
 ## 🌍 Live Demo
-[Visit the live site here](https://your-portfolio-url.com)
+[Visit the live site here](https://master.d39mbm0lujnu0y.amplifyapp.com/)
 
 ## 📬 Contact
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: prajwalgovindraja@gmail.com  
+- LinkedIn: [linkedin.com/in/prajwal-g06](https://www.linkedin.com/in/prajwal-g06/)
 
 ---
 
