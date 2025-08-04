@@ -22,7 +22,7 @@ I'm a DevOps Engineer with hands-on experience in building and automating cloud 
 - `assets/` – CSS, images, and other static files
 
 ## 🌍 Live Demo
-[Visit the live site here](https://master.d39mbm0lujnu0y.amplifyapp.com/)
+[Visit the live site here](https://master.d3ovtu5k2o2wak.amplifyapp.com/)
 
 ## 📬 Contact
 - Email: prajwalgovindraja@gmail.com  
